@@ -56,15 +56,6 @@
       localStorage.setItem('cartDetails',JSON.stringify(obj));
       console.log(JSON.parse(localStorage.getItem('cartDetails')));
     }
-
-    vm.fbShare = function() {
-      FB.ui({
-					  method: 'feed',
-					  link: 'https://imvikaspancholi.firebaseapp.com',
-					  name: 'Yay, I donated!',
-					  message: 'Check out this link, guys!'
-					}, function(response){console.log(response)});
-    }
   }
   
 })();
