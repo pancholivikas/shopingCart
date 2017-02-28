@@ -1,0 +1,16 @@
+{
+	"cartDetails": [
+		{
+			"id" : "learning-javascript-design-patterns-a-javascript-and-jquery-developer-s-guide-original-imadhfqjzgdybuna",
+			"name" : "Learning JavaScript Design Patterns",
+			"quantity": 1,
+			"price":200
+		},
+		{
+			"id" : "one-indian-girl-original-imaehsabwce8faz5",
+			"name" : "One Indian Girl",
+			"quantity": 1,
+			"price":200
+		}
+	]
+}
