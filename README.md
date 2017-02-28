@@ -1,5 +1,7 @@
-# AngularAndHeroku
-A simple angular boiler plate for heroku
+# Angular
+A simple angular boiler plate.
+
+Shopping Cart like functionality.
 
 Run the following Commands to run this app
 1. 'npm install'
